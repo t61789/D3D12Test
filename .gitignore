@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+/.idea
+
+/DX12Test/x64
+
+x64/Debug
